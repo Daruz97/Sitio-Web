@@ -1,0 +1,20 @@
+body { background-color: skyblue;
+    margin: 0px;
+    padding: 0px;
+}
+header{ background-color: rgb(61, 151, 224);
+    width: 100%;
+     font-size: 40px;
+     height: 50px;
+    color: black;
+}
+.Título{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-style: normal;
+        float: inline-end;
+}
+.Menu{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    float: right;
+}
